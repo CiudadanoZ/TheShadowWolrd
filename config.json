@@ -8,11 +8,11 @@
     "exe_path": "games/The Shadow World Revival/Game.exe"
   }
   {
-    "name": "Shadow Trials: Origins",
+    "name": "The Shadow World: Origins",
+    "description": "Conoce los origenes de The Shadow World",
     "version": "1.0.0",
-    "description": "Descubre el origen de la oscuridad en esta precuela especial.",
-    "download_url": "https://.../origins_1.0.0.zip",
-    "exe_path": "Origins/ShadowTrials.exe",
-    "image": "images/origins.jpg"
+    "image": "Assets/revival.jpg",
+    "download_url": "",
+    "exe_path": "games/The Shadow World Revival/Game.exe"
   }
 ]
