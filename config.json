@@ -9,10 +9,10 @@
   }
   {
     "name": "The Shadow World: Origins",
-    "description": "Conoce los origenes de The Shadow World",
     "version": "1.0.0",
-    "image": "Assets/origin.jpg",
+    "description": "Descubre el origen de la oscuridad en esta precuela especial.",
     "download_url": "https://github.com/CiudadanoZ/TheShadowWolrd/releases/download/Origin/The.Shadow.World.Origin_Windows.zip",
-    "exe_path": "games/The Shadow World Revival/Game.exe"
+    "exe_path": "Origins/ShadowWorldOrigins.exe",
+    "image": "Assets/origin.jpg",
   }
 ]
