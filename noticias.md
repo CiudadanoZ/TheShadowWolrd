@@ -6,3 +6,5 @@
 
 ## 🎉 Próximo Evento - 10/03/2025
 - Un evento especial con recompensas exclusivas.
+
+Esto funciona jenial!!!
