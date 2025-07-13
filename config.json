@@ -4,14 +4,14 @@
     "description": "El renacer del caos y la esperanza. Versión 2.0.5 Navidad.",
     "version": "2.0.9",
     "image": "Assets/revival.jpg",
-    "download_url": "https://github.com/CiudadanoZ/TheShadowWolrd/releases/download/TSW/The.Shadow.World.Revival._2.0.5.Navidad._Windows.zip",
+    "download_url": "https://github.com/CiudadanoZ/TheShadowWorld/releases/download/TSW/The.Shadow.World.Revival._2.0.5.Navidad._Windows.zip",
     "exe_path": "games/The Shadow World Revival/Game.exe"
   }
   {
     "name": "The Shadow World: Origins",
     "description": "Conoce los origenes de The Shadow World",
     "version": "1.0.0",
-    "image": "Assets/revival.jpg",
+    "image": "Assets/origin.jpg",
     "download_url": "",
     "exe_path": "games/The Shadow World Revival/Game.exe"
   }
