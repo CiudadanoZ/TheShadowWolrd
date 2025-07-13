@@ -12,7 +12,7 @@
     "description": "Conoce los origenes de The Shadow World",
     "version": "1.0.0",
     "image": "Assets/origin.jpg",
-    "download_url": "",
+    "download_url": "https://github.com/CiudadanoZ/TheShadowWolrd/releases/download/Origin/The.Shadow.World.Origin_Windows.zip",
     "exe_path": "games/The Shadow World Revival/Game.exe"
   }
 ]
