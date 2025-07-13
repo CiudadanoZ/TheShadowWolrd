@@ -12,7 +12,7 @@
     "version": "1.0.0",
     "description": "Descubre el origen de la oscuridad en esta precuela especial.",
     "download_url": "https://github.com/CiudadanoZ/TheShadowWolrd/releases/download/TSWO/The.Shadow.World.Origin_Windows.zip",
-    "exe_path": "games/ShadowWorldOrigins.exe",
+    "exe_path": "games/The Shadow World Origin/Game.exe",
     "image": "Assets/origin.jpg"
   }
 ]
