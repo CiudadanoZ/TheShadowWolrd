@@ -7,4 +7,12 @@
     "download_url": "https://github.com/CiudadanoZ/TheShadowWolrd/releases/download/TSW/The.Shadow.World.Revival._2.0.5.Navidad._Windows.zip",
     "exe_path": "games/The Shadow World Revival/Game.exe"
   }
+  {
+    "name": "Shadow Trials: Origins",
+    "version": "1.0.0",
+    "description": "Descubre el origen de la oscuridad en esta precuela especial.",
+    "download_url": "https://.../origins_1.0.0.zip",
+    "exe_path": "Origins/ShadowTrials.exe",
+    "image": "images/origins.jpg"
+  }
 ]
