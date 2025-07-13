@@ -6,13 +6,5 @@
     "image": "Assets/revival.jpg",
     "download_url": "https://github.com/CiudadanoZ/TheShadowWorld/releases/download/TSW/The.Shadow.World.Revival._2.0.5.Navidad._Windows.zip",
     "exe_path": "games/The Shadow World Revival/Game.exe"
-  },
-  {
-    "name": "The Shadow World: Origins",
-    "version": "1.0.0",
-    "description": "Descubre el origen de la oscuridad en esta precuela especial.",
-    "download_url": "https://github.com/CiudadanoZ/TheShadowWorld/releases/download/Origin/The.Shadow.World.Origin_Windows.zip",
-    "exe_path": "Origins/ShadowWorldOrigins.exe",
-    "image": "Assets/origin.jpg"
   }
 ]
